@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+pillow
+opencv-python
+kaggle
+boto3
+awscli
+kagglehub

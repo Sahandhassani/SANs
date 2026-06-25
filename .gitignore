@@ -1,0 +1,10 @@
+Data/raw/
+Data/processed/
+outputs/
+*.pt
+*.pth
+*.ckpt
+*.zip
+__pycache__/
+*.pyc
+.kaggle/
